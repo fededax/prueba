@@ -1,0 +1,13 @@
+D:\Users\900005245\Source\Repos\WalmartProxy\WalmartProxy\bin\Debug\netcoreapp2.1\WalmartProxy.deps.json
+D:\Users\900005245\Source\Repos\WalmartProxy\WalmartProxy\bin\Debug\netcoreapp2.1\WalmartProxy.runtimeconfig.json
+D:\Users\900005245\Source\Repos\WalmartProxy\WalmartProxy\bin\Debug\netcoreapp2.1\WalmartProxy.runtimeconfig.dev.json
+D:\Users\900005245\Source\Repos\WalmartProxy\WalmartProxy\bin\Debug\netcoreapp2.1\WalmartProxy.dll
+D:\Users\900005245\Source\Repos\WalmartProxy\WalmartProxy\obj\Debug\netcoreapp2.1\WalmartProxy.csproj.CoreCompileInputs.cache
+D:\Users\900005245\Source\Repos\WalmartProxy\WalmartProxy\obj\Debug\netcoreapp2.1\WalmartProxy.RazorAssemblyInfo.cache
+D:\Users\900005245\Source\Repos\WalmartProxy\WalmartProxy\obj\Debug\netcoreapp2.1\WalmartProxy.RazorAssemblyInfo.cs
+D:\Users\900005245\Source\Repos\WalmartProxy\WalmartProxy\obj\Debug\netcoreapp2.1\WalmartProxy.AssemblyInfoInputs.cache
+D:\Users\900005245\Source\Repos\WalmartProxy\WalmartProxy\obj\Debug\netcoreapp2.1\WalmartProxy.AssemblyInfo.cs
+D:\Users\900005245\Source\Repos\WalmartProxy\WalmartProxy\obj\Debug\netcoreapp2.1\WalmartProxy.RazorTargetAssemblyInfo.cache
+D:\Users\900005245\Source\Repos\WalmartProxy\WalmartProxy\bin\Debug\netcoreapp2.1\WalmartProxy.pdb
+D:\Users\900005245\Source\Repos\WalmartProxy\WalmartProxy\obj\Debug\netcoreapp2.1\WalmartProxy.dll
+D:\Users\900005245\Source\Repos\WalmartProxy\WalmartProxy\obj\Debug\netcoreapp2.1\WalmartProxy.pdb
